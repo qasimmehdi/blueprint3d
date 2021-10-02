@@ -105,8 +105,8 @@ $(document).ready(function() {
       "type" : "1"
     }, 
         {
-      "name" : "Wooden Trunk",
-      "image" : "models/thumbnails/thumbnail_teca-storage-trunk.jpg",
+      "name" : "Custom Chair",
+      "image" : "models/thumbnails/custom_chair.png",
       "model" : "models/js/cb-tecs_baked.js",
       "type" : "1"
     }, 
