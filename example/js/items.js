@@ -119,11 +119,29 @@ $(document).ready(function () {
       image: "models/thumbnails/IKEA-Forsby_Small_Stool-3d.png",
       model: "models/js/ikea_chair.js",
       type: "1",
-    },//IKEA-Hopen_Bed_160-3D
+    }, //IKEA-Hopen_Bed_160-3D
     {
       name: "Ikea Bed",
-      image: "models/thumbnails/IKEA-Hopen_Bed_160-3D.png",
+      image: "models/thumbnails/IKEA-Hemnes_Single_Bed_Frame_Small-3D.png",
       model: "models/js/ikea_bed2.js",
+      type: "1",
+    },
+    {
+      name: "Ikea Table",
+      image: "models/thumbnails/IKEA-Lack_Black_Table-3D.png",
+      model: "models/js/table.js",
+      type: "1",
+    },
+    {
+      name: "Ikea Lamp",
+      image: "models/thumbnails/IKEA-IKEA_STOCKHOLM_Lampadaire-3D.png",
+      model: "models/js/lamp.js",
+      type: "1",
+    },
+    {
+      name: "Ikea Sofa",
+      image: "models/thumbnails/IKEA-Kipplan_2_Seat_Sofa-3D.png",
+      model: "models/js/Ikea Sofa.js",
       type: "1",
     },
     {
